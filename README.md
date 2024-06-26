@@ -1,8 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-# Olá, eu sou [Seu Nome] 👋
-
-![Developer](https://your-image-url.com)
+# Olá, eu sou Pedro Santos 👋
 
 ## Sobre mim
 
@@ -13,25 +11,25 @@ Eu sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho
 ### Front-end
 
 #### Vue.js
-![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="44" height="44">
 - Framework JavaScript progressivo para construir interfaces de usuário.
 
 #### React
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="44" height="44">
 - Biblioteca JavaScript para construir interfaces de usuário.
 
 #### React Native
-![React Native](https://reactnative.dev/img/header_logo.svg)
+<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="44" height="44">
 - Framework para desenvolver aplicativos móveis usando React e JavaScript.
 
 ### Back-end
 
 #### Node.js
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="44" height="44">
 - Ambiente de execução JavaScript server-side.
 
 #### PHP Laravel
-![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="44" height="44">
 - Framework PHP para desenvolvimento web com sintaxe expressiva e elegante.
 
 ## Contato
@@ -54,4 +52,5 @@ Aqui estão alguns dos meus projetos recentes:
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em algum projeto.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
+
 
