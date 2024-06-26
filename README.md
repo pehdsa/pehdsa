@@ -11,7 +11,9 @@ Eu sou um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Tenho
 ### Front-end
 
 #### Vue.js
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="44" height="44">
+<div style="background-color: #000">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="44" height="44">  
+</div>
 - Framework JavaScript progressivo para construir interfaces de usuário.
 
 #### React
