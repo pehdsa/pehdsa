@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-# Olá, eu sou Pedro Santos 👋
+# Olá, eu sou Pedro Duarte 👋
 
 ## Sobre mim
 
